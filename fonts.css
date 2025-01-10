@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'BoldFont';
+    src: url('https://raw.githubusercontent.com/GhyyamGit/Ghyyam/main/BOLD.OTF') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BookFont';
+    src: url('https://raw.githubusercontent.com/GhyyamGit/Ghyyam/main/BOOK.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LightFont';
+    src: url('https://raw.githubusercontent.com/GhyyamGit/Ghyyam/main/LIGHT.OTF') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Light2Font';
+    src: url('https://raw.githubusercontent.com/GhyyamGit/Ghyyam/main/LIGHT2.OTF') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MediumFont';
+    src: url('https://raw.githubusercontent.com/GhyyamGit/Ghyyam/main/MEDIUM.OTF') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SemiBoldFont';
+    src: url('https://raw.githubusercontent.com/GhyyamGit/Ghyyam/main/SEMIBOLD.TTF') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
