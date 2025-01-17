@@ -39,3 +39,10 @@
     font-weight: 600;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'MEDIUMWEB';
+    src: url('https://raw.githubusercontent.com/GhyyamGit/Ghyyam/main/EXPOARABIC-MEDIUM.woff') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
