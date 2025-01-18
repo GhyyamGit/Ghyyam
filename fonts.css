@@ -40,11 +40,53 @@
     font-style: normal;
 }
 
-
-
 @font-face {
     font-family: 'MEDIUMWEB';
     src: url('https://raw.githubusercontent.com/GhyyamGit/Ghyyam/main/EXPOARABIC-MEDIUM.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Additional font styles based on the new font-family names */
+
+.bold-font {
+    font-family: 'BoldFont', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.book-font {
+    font-family: 'BookFont', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.light-font {
+    font-family: 'LightFont', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.light2-font {
+    font-family: 'Light2Font', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.medium-font {
+    font-family: 'MediumFont', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.semibold-font {
+    font-family: 'SemiBoldFont', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.mediumweb-font {
+    font-family: 'MEDIUMWEB', sans-serif;
     font-weight: 600;
     font-style: normal;
 }
